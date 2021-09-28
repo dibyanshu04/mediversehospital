@@ -1,0 +1,73 @@
+{
+  "id": 270,
+  "date": "2015-04-16T11:05:18",
+  "date_gmt": "2015-04-16T11:05:18",
+  "guid": { "rendered": "https://welfare.cmsmasters.net/?page_id=270" },
+  "modified": "2017-04-19T12:56:58",
+  "modified_gmt": "2017-04-19T12:56:58",
+  "slug": "google-maps",
+  "status": "publish",
+  "type": "page",
+  "link": "https://healthy-pregnancy.cmsmasters.net/google-maps/",
+  "title": { "rendered": "Google Maps" },
+  "content": {
+    "rendered": "<div id=\"cmsmasters_row_8e9a16e012\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_half\">\n<div id=\"cmsmasters_heading_1ee553a96a\" class=\"cmsmasters_heading_wrap cmsmasters_heading_align_left\">\n\t<h2 class=\"cmsmasters_heading\">Roadmap</h2>\n</div><div class=\"resizable_block\">\n<div id=\"google_map_af4b2a66dd\" class=\"cmsmasters_google_map google_map\" data-address=\"7850 Melrose Ave Los Angeles, CA 90046\" data-maptype=\"ROADMAP\" data-zoom=\"14\" data-scrollwheel=\"true\" data-doubleclickzoom=\"true\" data-pan-control=\"true\" data-zoom-control=\"true\" data-map-type-control=\"true\" data-scale-control=\"true\" data-street-view-control=\"true\" data-overview-map-control=\"true\" data-markers=\"address: 7850 Melrose Ave Los Angeles, CA 90046///html: Ahoy!///|||\"></div>\n</div>\n</div>\n<div class=\"cmsmasters_column one_half\">\n<div id=\"cmsmasters_heading_4a505f1796\" class=\"cmsmasters_heading_wrap cmsmasters_heading_align_left\">\n\t<h2 class=\"cmsmasters_heading\">Terrain</h2>\n</div><div class=\"resizable_block\">\n<div id=\"google_map_b20723f072\" class=\"cmsmasters_google_map google_map\" data-address=\"7850 Melrose Ave Los Angeles, CA 90046\" data-maptype=\"TERRAIN\" data-zoom=\"10\" data-scrollwheel=\"true\" data-doubleclickzoom=\"true\" data-pan-control=\"true\" data-zoom-control=\"true\" data-map-type-control=\"true\" data-scale-control=\"true\" data-street-view-control=\"true\" data-overview-map-control=\"true\" data-markers=\"address: 7850 Melrose Ave Los Angeles, CA 90046///html: Ahoy!///|||\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_aff6e2d1a4\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_divider_770e44491e\" class=\"cmsmasters_divider cmsmasters_divider_width_long cmsmasters_divider_pos_center\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_f950b6ded6\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_half\">\n<div id=\"cmsmasters_heading_cc2dd9e004\" class=\"cmsmasters_heading_wrap cmsmasters_heading_align_left\">\n\t<h2 class=\"cmsmasters_heading\">Hybrid</h2>\n</div><div class=\"resizable_block\">\n<div id=\"google_map_226272d715\" class=\"cmsmasters_google_map google_map\" data-address=\"7850 Melrose Ave Los Angeles, CA 90046\" data-maptype=\"HYBRID\" data-zoom=\"9\" data-scrollwheel=\"true\" data-doubleclickzoom=\"true\" data-pan-control=\"true\" data-zoom-control=\"true\" data-map-type-control=\"true\" data-scale-control=\"true\" data-street-view-control=\"true\" data-overview-map-control=\"true\" data-markers=\"address: 7850 Melrose Ave Los Angeles, CA 90046///html: Ahoy!///|||\"></div>\n</div>\n</div>\n<div class=\"cmsmasters_column one_half\">\n<div id=\"cmsmasters_heading_9a81272a52\" class=\"cmsmasters_heading_wrap cmsmasters_heading_align_left\">\n\t<h2 class=\"cmsmasters_heading\">Satellite</h2>\n</div><div class=\"resizable_block\">\n<div id=\"google_map_7299f40e65\" class=\"cmsmasters_google_map google_map\" data-address=\"7850 Melrose Ave Los Angeles, CA 90046\" data-maptype=\"SATELLITE\" data-zoom=\"2\" data-scrollwheel=\"true\" data-doubleclickzoom=\"true\" data-pan-control=\"true\" data-zoom-control=\"true\" data-map-type-control=\"true\" data-scale-control=\"true\" data-street-view-control=\"true\" data-overview-map-control=\"true\" data-markers=\"address: 7850 Melrose Ave Los Angeles, CA 90046///html: Ahoy!///|||\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_cd4fe4fe16\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_divider_abd94be94c\" class=\"cmsmasters_divider cmsmasters_divider_width_long cmsmasters_divider_pos_center\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_4ff8ccb025\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_heading_2d33fba17d\" class=\"cmsmasters_heading_wrap cmsmasters_heading_align_center\">\n\t<h2 class=\"cmsmasters_heading\">Full</h2>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_6bcf36214a\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_fullwidth\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner cmsmasters_row_fullwidth\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"google_map_7d95a814a4\" class=\"cmsmasters_google_map google_map\" data-address=\"\" data-maptype=\"ROADMAP\" data-zoom=\"15\" data-scrollwheel=\"true\" data-doubleclickzoom=\"true\" data-pan-control=\"true\" data-zoom-control=\"true\" data-map-type-control=\"true\" data-scale-control=\"true\" data-street-view-control=\"true\" data-overview-map-control=\"true\" data-markers=\"address: 7850 Melrose Ave Los Angeles, CA 90046///|||\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n\n",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/270"
+      }
+    ],
+    "collection": [
+      { "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/comments?post=270"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/270/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 13935,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/270/revisions/13935"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media?parent=270"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 11021,
+  "date": "2016-09-09T11:59:02",
+  "date_gmt": "2016-09-09T11:59:02",
+  "guid": {
+    "rendered": "https://eco-press.cmsmasters.net/?post_type=profile&#038;p=11021"
+  },
+  "modified": "2021-04-21T09:34:41",
+  "modified_gmt": "2021-04-21T09:34:41",
+  "slug": "jack-jameson-2",
+  "status": "publish",
+  "type": "profile",
+  "link": "https://healthy-pregnancy.cmsmasters.net/profile/jack-jameson-2/",
+  "title": { "rendered": "Jack Jameson" },
+  "content": {
+    "rendered": "<div id=\"cmsmasters_row_0d90308e4d\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div class=\"aligncenter\">\n<div class=\"cmsmasters_img  cmsmasters_image_c\">\n<img src=\"https://healthy-pregnancy.cmsmasters.net/wp-content/uploads/2015/04/22-1.jpg\" alt=\"\" />\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_1ffdd73e16\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div class=\"cmsmasters_text\">\n<p>Integer dignissim dolor quis lorem semper, sit amet convallis ipsum dignissim. Sed diam quam, aliquam a fringilla at, lobortis sed velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla iaculis enim id mauris pharetra laoreet. Aliquam a ipsum fringilla purus euismod bibendum et et ipsum. Suspendisse eget sagittis sem. Nam vitae purus ante. Nam aliquam luctus diam.</p>\n<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam vel erat vitae lectus dictum lacinia. Sed nec dolor at lacus sagittis ultrices a et lorem. Aliquam fermentum consequat dolor, nec lacinia lectus fermentum ut. In et justo id justo tristique placerat. Nulla facilisi. Maecenas commodo erat in nisi vehicula lobortis in vitae urna. Sed rhoncus mi quis nulla aliquam, vel eleifend purus molestie. Duis eleifend nunc sit amet mi dapibus ornare. Suspendisse vel libero se Maecenas ornare consequat massa ullamcorper dapibus. Aliquam auctor, sapien sit amet accumsan facilisis, enim enim aliquet arcu, tincidunt pellentesque justo turpis id neque. Duis eleifend nunc sit amet mi dapibus ornare. Suspendisse vel libero se. Maecenas tempus leo ac nisi iaculis porta. Sed sapien tortor, aliquet a velit ut, lacinia molestie velit. Maecenas ornare consequat massa ullamcorper dapibus.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n\n",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "featured_media": 12743,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "pl-categs": [16],
+  "_links": {
+    "self": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/profile/11021"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/profile"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/types/profile"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/comments?post=11021"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/profile/11021/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 13840,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/profile/11021/revisions/13840"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media/12743"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media?parent=11021"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "pl-categs",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pl-categs?post=11021"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

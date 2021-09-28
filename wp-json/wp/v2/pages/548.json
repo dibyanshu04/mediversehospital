@@ -1,0 +1,73 @@
+{
+  "id": 548,
+  "date": "2015-04-20T12:28:17",
+  "date_gmt": "2015-04-20T12:28:17",
+  "guid": { "rendered": "https://welfare.cmsmasters.net/?page_id=548" },
+  "modified": "2017-04-19T13:05:07",
+  "modified_gmt": "2017-04-19T13:05:07",
+  "slug": "social-sharing",
+  "status": "publish",
+  "type": "page",
+  "link": "https://healthy-pregnancy.cmsmasters.net/social-sharing/",
+  "title": { "rendered": "Social Sharing" },
+  "content": {
+    "rendered": "<div id=\"cmsmasters_row_b9cf2a771e\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_heading_643313f5b4\" class=\"cmsmasters_heading_wrap cmsmasters_heading_align_left\">\n\t<h2 class=\"cmsmasters_heading\">Social Sharing Horizontal</h2>\n</div><div class=\"cmsmasters_sharing\">\n<div class=\"share_wrap\">\n<a href=\"//twitter.com/intent/tweet?text=Check+out+%27Social+Sharing%27+on+Healthy+Pregnancy+website&url=https%3A%2F%2Fhealthy-pregnancy.cmsmasters.net%2Fsocial-sharing%2F\" class=\"button cmsmasters-icon-twitter\">Twitter</a>\n</div>\n<div class=\"share_wrap\">\n<a href=\"//www.pinterest.com/pin/create/button/\" data-pin-do=\"buttonBookmark\" data-pin-custom=\"true\" class=\"button cmsmasters_pinterest_button cmsmasters-icon-pinterest\">Pinterest</a>\n</div>\n<div class=\"share_wrap\">\n<a href=\"//www.facebook.com/sharer/sharer.php?display=popup&u=https%3A%2F%2Fhealthy-pregnancy.cmsmasters.net%2Fsocial-sharing%2F\" class=\"button cmsmasters-icon-facebook\">Facebook</a>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_a1f159d5b9\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_divider_91c8b28dd7\" class=\"cmsmasters_divider cmsmasters_divider_width_long cmsmasters_divider_pos_center\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_865620a554\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_heading_2bf5d85898\" class=\"cmsmasters_heading_wrap cmsmasters_heading_align_left\">\n\t<h2 class=\"cmsmasters_heading\">Social Sharing Vertical</h2>\n</div><div class=\"cmsmasters_sharing social_vertical\">\n<div class=\"share_wrap\">\n<a href=\"//twitter.com/intent/tweet?text=Check+out+%27Social+Sharing%27+on+Healthy+Pregnancy+website&url=https%3A%2F%2Fhealthy-pregnancy.cmsmasters.net%2Fsocial-sharing%2F\" class=\"button cmsmasters-icon-twitter\">Twitter</a>\n</div>\n<div class=\"share_wrap\">\n<a href=\"//www.pinterest.com/pin/create/button/\" data-pin-do=\"buttonBookmark\" data-pin-custom=\"true\" class=\"button cmsmasters_pinterest_button cmsmasters-icon-pinterest\">Pinterest</a>\n</div>\n<div class=\"share_wrap\">\n<a href=\"//www.facebook.com/sharer/sharer.php?display=popup&u=https%3A%2F%2Fhealthy-pregnancy.cmsmasters.net%2Fsocial-sharing%2F\" class=\"button cmsmasters-icon-facebook\">Facebook</a>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n\n",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/548"
+      }
+    ],
+    "collection": [
+      { "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/comments?post=548"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 11,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/548/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 13898,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/548/revisions/13898"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media?parent=548"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

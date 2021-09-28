@@ -1,0 +1,100 @@
+{
+  "id": 1171,
+  "date": "2015-05-04T14:37:18",
+  "date_gmt": "2015-05-04T14:37:18",
+  "guid": {
+    "rendered": "https://welfare.cmsmasters.net/?post_type=project&#038;p=1171"
+  },
+  "modified": "2017-04-19T12:39:38",
+  "modified_gmt": "2017-04-19T12:39:38",
+  "slug": "high-risk-pregnancy-care-2",
+  "status": "publish",
+  "type": "project",
+  "link": "https://healthy-pregnancy.cmsmasters.net/project/high-risk-pregnancy-care-2/",
+  "title": { "rendered": "High risk pregnancy care" },
+  "content": {
+    "rendered": "<p>Nullam eget euismod nisi, in feugiat felis. Sed consequat aliquet augue, quis tincidunt sem porta quis. Suspendisse nulla nibh, viverra quis vulputate eu, ultricies suscipit nibh. Aenean ut pulvinar ex. Duis neque erat, dictum ut bibendum ut, scelerisque in quam. Donec tempor ex ut nisi rhoncus, necsan ex. In molestie ante ipsum. Ut eu mi a elit sagittis viverra. Cras ac auctor nunc, rhoncus vestibulum felis. Ut est lacus, bibendum ac pulvinar ut, sagittis at nisl. Aliquam leo libero, sollicitudin vel finibus quis, scelerisque rhoncus magna.</p>\n<p>Aliquam et ullamcorper velit. Mauris pretium id velit ut mattis. Donec ac ligula placerat, tempus turpis nec, varius nisl. Sed sit amet sem nec est molestie euismod vitae at lacus. Fusce pretium ex ligula, vel facilisis diam volutpat at. Aenean eget massa mattis, faucibus felis ac, malesuada metus. Duis sit amet elit ut augue consectetur faucibus. Vivamus condimentum bibendum tincidunt. Praesent ac nisi ut augue malesuada blandit in non velit.</p>\n<p>Donec ac orci ac arcu rhoncus euismod in sed mi. Ut tincidunt purus et enim hendrerit, sit amet rhoncus nulla finibus. Fusce non enim vitae leo eleifend mattis nec non quam. Ut porttitor sem sit amet turpis rutrum pharetra. In ut sodales libero, sit amet tempor dui. Nunc quis lorem non nisi gravida porttitor. Donec posuere tempor sapien, sollicitudin dignissim mauris aliquet hendrerit. Maecenas in magna purus.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Nullam eget euismod nisi, in feugiat felis. Sed consequat aliquet augue, quis tincidunt sem porta quis. Suspendisse nulla nibh, viverra quis vulputate eu, ultricies suscipit nibh. Aenean ut pulvinar ex. Duis neque erat, dictum ut bibendum ut, scelerisque in quam. Donec tempor ex ut nisi rhoncus, necsan ex. In molestie ante ipsum. Ut eu mi&#8230;</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 12411,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "pj-categs": [15],
+  "pj-tags": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/1171"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/types/project"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/comments?post=1171"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/1171/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 12412,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/1171/revisions/12412"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media/12411"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media?parent=1171"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "pj-categs",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pj-categs?post=1171"
+      },
+      {
+        "taxonomy": "pj-tags",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pj-tags?post=1171"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

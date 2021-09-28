@@ -1,0 +1,100 @@
+{
+  "id": 8414,
+  "date": "2015-01-27T08:32:06",
+  "date_gmt": "2015-01-27T08:32:06",
+  "guid": {
+    "rendered": "https://mall.cmsmasters.net/?post_type=project&#038;p=8414"
+  },
+  "modified": "2017-04-19T12:42:33",
+  "modified_gmt": "2017-04-19T12:42:33",
+  "slug": "in-vitro-fertilization",
+  "status": "publish",
+  "type": "project",
+  "link": "https://healthy-pregnancy.cmsmasters.net/project/in-vitro-fertilization/",
+  "title": { "rendered": "In vitro fertilization" },
+  "content": {
+    "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt porta velit, sed suscipit massa consequat sed. Integer est ante, dictum quis metus non, rhoncus accumsan ante. Quisque auctor justo eu odio tincidunt, vitae consectetur nulla consequat. Nam vel aliquet turpis, ac sollicitudin nisi. Cras erat leo, mollis sit amet lacus a, tristique euismod quam. Suspendisse viverra a turpis in sodales. Praesent faucibus mollis congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt porta velit, sed suscipit massa consequat sed. Integer est ante, dictum quis metus non, rhoncus accumsan ante. Quisque auctor justo eu odio tincidunt, vitae consectetur nulla consequat. Nam vel aliquet turpis, ac sollicitudin nisi. Cras erat leo, mollis sit amet lacus a, tristique euismod quam. Suspendisse viverra a turpis in sodales. Praesent faucibus mollis congue.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt porta velit, sed suscipit massa consequat sed. Integer est ante, dictum quis metus non, rhoncus accumsan ante. Quisque auctor justo eu odio tincidunt, vitae consectetur nulla consequat. Nam vel aliquet turpis, ac sollicitudin nisi. Cras erat leo, mollis sit amet lacus a, tristique euismod quam. Suspendisse viverra a turpis in sodales. Praesent faucibus mollis congue.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt porta velit, sed suscipit massa consequat sed. Integer est ante, dictum quis metus non, rhoncus accumsan ante. Quisque auctor justo eu odio tincidunt, vitae consectetur nulla consequat. Nam vel aliquet turpis, ac sollicitudin nisi. Cras erat leo, mollis sit amet lacus a, tristique euismod quam. Suspendisse viverra a turpis in sodales. Praesent faucibus mollis congue.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt porta velit, sed suscipit massa consequat sed. Integer est ante, dictum quis metus non, rhoncus accumsan ante. Quisque auctor justo eu odio tincidunt, vitae consectetur nulla consequat. Nam vel aliquet turpis, ac sollicitudin nisi. Cras erat leo, mollis sit amet lacus a, tristique euismod quam&#8230;.</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 13186,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "pj-categs": [28],
+  "pj-tags": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/8414"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/types/project"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/comments?post=8414"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/8414/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 12364,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/8414/revisions/12364"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media/13186"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media?parent=8414"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "pj-categs",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pj-categs?post=8414"
+      },
+      {
+        "taxonomy": "pj-tags",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pj-tags?post=8414"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

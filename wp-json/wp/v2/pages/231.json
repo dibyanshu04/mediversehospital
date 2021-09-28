@@ -1,0 +1,73 @@
+{
+  "id": 231,
+  "date": "2015-04-16T08:53:18",
+  "date_gmt": "2015-04-16T08:53:18",
+  "guid": { "rendered": "https://welfare.cmsmasters.net/?page_id=231" },
+  "modified": "2017-04-19T12:56:31",
+  "modified_gmt": "2017-04-19T12:56:31",
+  "slug": "embedded",
+  "status": "publish",
+  "type": "page",
+  "link": "https://healthy-pregnancy.cmsmasters.net/embedded/",
+  "title": { "rendered": "Embedded" },
+  "content": {
+    "rendered": "<div id=\"cmsmasters_row_752cd0df0c\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_heading_caf11e8948\" class=\"cmsmasters_heading_wrap cmsmasters_heading_align_center\">\n\t<h2 class=\"cmsmasters_heading\">Youtube</h2>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_9b67f42405\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_fourth\">\n</div>\n<div class=\"cmsmasters_column one_half\">\n<div id=\"cmsmasters_video_wrap_\" class=\"cmsmasters_video_wrap\">\n<iframe width=\"1160\" height=\"653\" src=\"https://www.youtube.com/embed/BCHhwxvQqxg?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>\n</div>\n</div>\n<div class=\"cmsmasters_column one_fourth\">\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_2a8176ccef\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_divider_9f1803e0fa\" class=\"cmsmasters_divider cmsmasters_divider_width_long cmsmasters_divider_pos_center\"></div><div id=\"cmsmasters_heading_3b558e6d89\" class=\"cmsmasters_heading_wrap cmsmasters_heading_align_center\">\n\t<h2 class=\"cmsmasters_heading\">Vimeo</h2>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_86c5416f82\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_fourth\">\n</div>\n<div class=\"cmsmasters_column one_half\">\n<div id=\"cmsmasters_video_wrap_\" class=\"cmsmasters_video_wrap\">\n<iframe src=\"https://player.vimeo.com/video/87656584\" width=\"1160\" height=\"653\" frameborder=\"0\" title=\"cmsmasters promo video\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n</div>\n</div>\n<div class=\"cmsmasters_column one_fourth\">\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_6b10b68537\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_divider_fa95827eba\" class=\"cmsmasters_divider cmsmasters_divider_width_long cmsmasters_divider_pos_center\"></div><div id=\"cmsmasters_heading_cd71483133\" class=\"cmsmasters_heading_wrap cmsmasters_heading_align_center\">\n\t<h2 class=\"cmsmasters_heading\">Soundcloud</h2>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_c4c666cbc0\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_fourth\">\n</div>\n<div class=\"cmsmasters_column one_half\">\n<div id=\"cmsmasters_video_wrap_\" class=\"cmsmasters_video_wrap\">\n<iframe width=\"1160\" height=\"300\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?visual=true&url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F120319217&show_artwork=true&maxwidth=1160&maxheight=300\"></iframe>\n</div>\n</div>\n<div class=\"cmsmasters_column one_fourth\">\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n\n",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/231"
+      }
+    ],
+    "collection": [
+      { "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/comments?post=231"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 10,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/231/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 13940,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/231/revisions/13940"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media?parent=231"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

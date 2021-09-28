@@ -1,0 +1,100 @@
+{
+  "id": 1596,
+  "date": "2015-05-06T13:09:21",
+  "date_gmt": "2015-05-06T13:09:21",
+  "guid": {
+    "rendered": "https://welfare.cmsmasters.net/?post_type=project&#038;p=1596"
+  },
+  "modified": "2017-04-19T12:39:17",
+  "modified_gmt": "2017-04-19T12:39:17",
+  "slug": "motherhood-2",
+  "status": "publish",
+  "type": "project",
+  "link": "https://healthy-pregnancy.cmsmasters.net/project/motherhood-2/",
+  "title": { "rendered": "Motherhood" },
+  "content": {
+    "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum erat at eros viverra vehicula. Ut ultrices aliquet lacus nec gravida. Pellentesque porttitor, augue nec lobortis tempor, neque tellus convallis nisl, in iaculis odio sapien at libero. Sed purus turpis, aliquam in lobortis ut, faucibus eu arcu. Etiam magna tellus, laoreet sit amet nisl a, tincidunt sodales nibh. Praesent posuere arcu vel tellus congue, a posuere elit pellentesque. Ut id convallis magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>\n<p>Cras ut aliquet nibh. Phasellus sit amet nulla a nibh convallis tristique. Nulla sit amet mi diam. Donec rutrum rhoncus massa, et pretium lacus varius ac. Donec eu placerat dolor. Vivamus cursus purus et nisl gravida luctus. Nam massa augue, molestie vel enim et, tempor sollicitudin lectus. Cras porttitor dolor iaculis massa convallis congue. Ut cursus pretium justo at volutpat. Pellentesque vulputate nisl sit amet auctor blandit. Mauris orci est, tempus in sagittis a, semper non libero.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum erat at eros viverra vehicula. Ut ultrices aliquet lacus nec gravida. Pellentesque porttitor, augue nec lobortis tempor, neque tellus convallis nisl, in iaculis odio sapien at libero. Sed purus turpis, aliquam in lobortis ut, faucibus eu arcu. Etiam magna tellus, laoreet sit amet nisl a,&#8230;</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 12417,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "pj-categs": [15],
+  "pj-tags": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/1596"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/types/project"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/comments?post=1596"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/1596/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 12418,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/1596/revisions/12418"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media/12417"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media?parent=1596"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "pj-categs",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pj-categs?post=1596"
+      },
+      {
+        "taxonomy": "pj-tags",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pj-tags?post=1596"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

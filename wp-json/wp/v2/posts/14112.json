@@ -1,0 +1,98 @@
+{
+  "id": 14112,
+  "date": "2017-04-03T13:31:43",
+  "date_gmt": "2017-04-03T13:31:43",
+  "guid": {
+    "rendered": "https://healthy-pregnancy.cmsmasters.net/when-you-are-expecting-a-baby-copy/"
+  },
+  "modified": "2017-04-03T13:51:30",
+  "modified_gmt": "2017-04-03T13:51:30",
+  "slug": "when-you-are-expecting-a-baby-copy",
+  "status": "publish",
+  "type": "post",
+  "link": "https://healthy-pregnancy.cmsmasters.net/when-you-are-expecting-a-baby-copy/",
+  "title": { "rendered": "Motherhood Memories And Life As a Parent" },
+  "content": {
+    "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum massa vel enim feugiat gravida. Phasellus velit risus, euismod a lacus et, mattis condimentum augue. Vivamus fermentum ex quis imperdiet sodales. Sed aliquam nibh tellus, a rutrum turpis pellentesque ac. Nulla nibh libero, tincidunt cursus gravida ut, sodales ut magna. Sed sodales libero sapien, et rutrum mi placerat eget. Nulla vestibulum lacus vel eros eleifend molestie.</p>\n<p>Sed rutrum, libero non pretium tristique, arcu mi sollicitudin ex, quis venenatis orci tellus vel dolor. Donec gravida, dolor ut auctor facilisis, enim dolor pellentesque lectus, nec vehicula nibh risus ac leo. Mauris volutpat aliquam tellus nec rhoncus. Aliquam et nibh pulvinar, sodales nibh et, pretium urna. Vivamus quam augue, maximus in consequat imperdiet, iaculis non nibh. Aliquam erat volutpat. Curabitur venenatis massa sed lacus tristique, non auctor nisl sodales. Sed ultricies lacus ut libero faucibus fringilla. Ut nisi tellus, posuere vel mattis nec, convallis a metus. Nullam elementum molestie felis nec lobortis. Cras at justo eu elit semper tempor sed quis orci. In risus magna, malesuada vel elementum ut, finibus et nunc.</p>\n<p>Cras dapibus ullamcorper dictum. Vivamus nec erat placerat felis scelerisque porttitor in ac turpis. In nec imperdiet turpis. Suspendisse quis orci ut orci pulvinar eleifend. Nulla eu mattis ipsum. Integer eget sagittis nulla. Praesent consectetur lacus et maximus eleifend. Integer non lacus dui. Mauris tortor diam, laoreet quis commodo vitae, sodales vel augue.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fermentum massa vel enim feugiat gravida. Phasellus velit risus, euismod a lacus et.</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 14123,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [46],
+  "tags": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/posts/14112"
+      }
+    ],
+    "collection": [
+      { "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/comments?post=14112"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/posts/14112/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 14115,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/posts/14112/revisions/14115"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media/14123"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media?parent=14112"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/categories?post=14112"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/tags?post=14112"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

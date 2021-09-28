@@ -1,0 +1,100 @@
+{
+  "id": 619,
+  "date": "2015-01-31T13:59:23",
+  "date_gmt": "2015-01-31T13:59:23",
+  "guid": {
+    "rendered": "https://welfare.cmsmasters.net/?post_type=project&#038;p=619"
+  },
+  "modified": "2017-04-19T12:40:50",
+  "modified_gmt": "2017-04-19T12:40:50",
+  "slug": "motherhood",
+  "status": "publish",
+  "type": "project",
+  "link": "https://healthy-pregnancy.cmsmasters.net/project/motherhood/",
+  "title": { "rendered": "Motherhood" },
+  "content": {
+    "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum a purus vulputate ullamcorper. Pellentesque mollis risus vitae iaculis congue. Integer pulvinar congue consequat. Ut lorem turpis, iaculis at velit vitae, sagittis viverra diam.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi suscipit sed justo eu tempus. Mauris scelerisque ligula odio, at fermentum ante varius non. Vivamus ac velit nec magna interdum pharetra at ac augue. Nulla quis lorem vitae elit rutrum volutpat nec elementum mi. Donec condimentum dignissim purus, vitae sollicitudin dolor ultricies ac. Fusce ullamcorper ipsum&#8230;</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 12352,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "pj-categs": [26],
+  "pj-tags": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/619"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/types/project"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/comments?post=619"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 3,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/619/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 12372,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/project/619/revisions/12372"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media/12352"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media?parent=619"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "pj-categs",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pj-categs?post=619"
+      },
+      {
+        "taxonomy": "pj-tags",
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pj-tags?post=619"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

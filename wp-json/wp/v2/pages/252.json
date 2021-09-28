@@ -1,0 +1,73 @@
+{
+  "id": 252,
+  "date": "2015-04-16T09:25:17",
+  "date_gmt": "2015-04-16T09:25:17",
+  "guid": { "rendered": "https://welfare.cmsmasters.net/?page_id=252" },
+  "modified": "2017-04-19T15:09:45",
+  "modified_gmt": "2017-04-19T15:09:45",
+  "slug": "featured-blocks",
+  "status": "publish",
+  "type": "page",
+  "link": "https://healthy-pregnancy.cmsmasters.net/featured-blocks/",
+  "title": { "rendered": "Featured Blocks" },
+  "content": {
+    "rendered": "<div id=\"cmsmasters_row_b3595ccb8b\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_fb_4909d71039\" class=\"cmsmasters_featured_block\">\n<div class=\"featured_block_inner\">\n<div class=\"featured_block_text\">\n<h2 class=\"edgtf-st-title\"><span style=\"color: #ffffff;\">Creative Elements</span></h2>\n<p id=\"cmsms_heading_5757ce4780801\" class=\"cmsms_heading\"><span style=\"color: #ffffff; font-family: Arial, Helvetica, 'Nimbus Sans L', sans-serif; font-size: 13px; line-height: 20px;\">Duis interdum risus ligula, in consequat lectus eleifend quis. In malesuada finibus arcu eu volutpat. Suspendisse ornare lacus ligula, quis mollis augue accumsan et. Phasellus et ante id ante finibus consectetur at ut lorem. Etiam id facilisis lorem. Aliquam eleifend orci ligula, sit amet posuere lectus egestas vitae. Morbi et felis vestibulum, euismod magna in, tempor enim. Vivamus placerat dictum enim eget pellentesque. Mauris egestas cursus malesuada. Aliquam auctor placerat dolor vel sagittis. In nec metus arcu. Vestibulum tincidunt nec lorem eget tincidunt.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_8dffaef145\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_first\">\n<div id=\"cmsmasters_divider_d6a4c9a2e9\" class=\"cmsmasters_divider cmsmasters_divider_width_long cmsmasters_divider_pos_center\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div id=\"cmsmasters_row_ace0d3be0f\" class=\"cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed\">\n<div class=\"cmsmasters_row_outer_parent\">\n<div class=\"cmsmasters_row_outer\">\n<div class=\"cmsmasters_row_inner\">\n<div class=\"cmsmasters_row_margin\">\n<div class=\"cmsmasters_column one_third\">\n<div id=\"cmsmasters_fb_48c1ecba17\" class=\"cmsmasters_featured_block\">\n<div class=\"featured_block_inner\">\n<div class=\"featured_block_text\">\n<h3 class=\"edgtf-iwt-title\">Fully Responsive</h3>\n<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.</p>\n<div id=\"cmsmasters_button_35c3f58fd2\" class=\"button_wrap\"><a href=\"#\" class=\"cmsmasters_button\"><span>Learn More</span></a></div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cmsmasters_column one_third\">\n<div id=\"cmsmasters_fb_aee775b015\" class=\"cmsmasters_featured_block\">\n<div class=\"featured_block_inner\">\n<div class=\"featured_block_text\">\n<h3 class=\"edgtf-iwt-title\">Perfect Design</h3>\n<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.</p>\n<div id=\"cmsmasters_button_88be1354f4\" class=\"button_wrap\"><a href=\"#\" class=\"cmsmasters_button\"><span>Learn More</span></a></div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"cmsmasters_column one_third\">\n<div id=\"cmsmasters_fb_8ec5f0ebeb\" class=\"cmsmasters_featured_block\">\n<div class=\"featured_block_inner\">\n<div class=\"featured_block_text\">\n<h3 class=\"edgtf-iwt-title\">Documentation</h3>\n<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.</p>\n<div id=\"cmsmasters_button_f327542d30\" class=\"button_wrap\"><a href=\"#\" class=\"cmsmasters_button\"><span>Learn More</span></a></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n\n",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/252"
+      }
+    ],
+    "collection": [
+      { "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/comments?post=252"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 18,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/252/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 14292,
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/pages/252/revisions/14292"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://healthy-pregnancy.cmsmasters.net/wp-json/wp/v2/media?parent=252"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
