@@ -4775,6 +4775,7 @@ body .headline {
 .cmsmasters_project_grid .cmsmasters_project_meta_info {
   position: relative;
   overflow: hidden;
+  color: black;
 }
 .cmsmasters_project_grid .cmsmasters_project_cont_info {
   padding: 0 10px 0 0;
