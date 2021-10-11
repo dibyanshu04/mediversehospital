@@ -1056,10 +1056,20 @@
 														<p role="status" aria-live="polite" aria-atomic="true"></p>
 														<ul></ul>
 													</div>
-													<form name="another" method="POST" netlify>
-														<input type="text" placeholder="Name" name="Full_Name">
-														<input type="email" placeholder="Email" name="Email">
-														<button type="submit">Send Message</button>
+													<form name="contact" method="POST" data-netlify="true">
+														<p>
+															<label>Your Name: <input type="text" name="name" /></label>
+														</p>
+														<p>
+															<label>Your Email: <input type="email" name="email" /></label>
+														</p>
+														
+														<p>
+															<label>Message: <textarea name="message"></textarea></label>
+														</p>
+														<p>
+															<input id="custom" type="submit" value="Submit">
+														</p>
 													</form>
 													<!-- <form name="Contact-Form" method="POST" netlify
 														class="wpcf7-form init">
