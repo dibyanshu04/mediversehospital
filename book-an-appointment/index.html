@@ -1025,43 +1025,44 @@
 														<p role="status" aria-live="polite" aria-atomic="true"></p>
 														<ul></ul>
 													</div>
-													<form name="Appointment-Form" method="POST" netlify class="wpcf7-form init">
+													<form name="Appointment_Form" method="POST" netlify class="wpcf7-form init">
 													
 														<div class="cmsmasters-form-builder">
 															<div class="form_info one_half"> <label> Name </label> <span class="wpcf7-form-control-wrap your-name">
-																	<input type="text" name="your-name" value="" size="40"
+																	<input type="text" name="name" value="" size="40"
 																		class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true"
 																		aria-invalid="false" placeholder="Your Name" />
 																</span>
 															</div>
 															<div class="form_info one_half"> <label> Email </label>
 																<span class="wpcf7-form-control-wrap your-email">
-																	<input type="email" name="your-email" value="" size="40"
+																	<input type="email" name="email" value="" size="40"
 																		class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
 																		aria-required="true" aria-invalid="false" placeholder="Your Email..." /></span>
 															</div>
 
 															<div class="form_info one_half"> <label> Phone </label> <span class="wpcf7-form-control-wrap your-name">
-																	<input type="tel" name="your-name" value="" size="40"
+																	<input type="tel" name="phone" value="" size="40"
 																		class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"
 																		placeholder="Phone Number" />
 																</span>
 															</div>
 															<div class="form_info one_half"> <label> Date</label>
 																<span class="wpcf7-form-control-wrap your-email">
-																	<input type="date" name="your-email" value="" size="40"
+																	<input type="date" name="date" value="" size="40"
 																		class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-																		aria-required="true" aria-invalid="false" placeholder="Your Email" /></span>
+																		aria-required="true" aria-invalid="false" placeholder="Appointment Date" /></span>
 															</div>
 
 															<div class="form_info one_first"> <label> Message </label>
 																<span class="wpcf7-form-control-wrap your-message">
 													
-																	<textarea name="your-message" cols="40" rows="10"
+																	<textarea name="message" cols="40" rows="10"
 																		class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" placeholder="Your Message (If any)">
 																	</textarea>
 																</span>
 															</div>
+															<div data-netlify-recaptcha="true"></div>
 															<div>
 																<input type="submit" value="Book Appointment" />
 															</div>
